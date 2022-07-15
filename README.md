@@ -17,7 +17,7 @@ $ python main.py .\input\spotify.json .\input\changes.json .\output\output.json
 ## Usage
 `$ python main.py <input-file> <changes-file> <output-file>`
 
-For example, in this program:
+For example, in this program:<br>
 `$ python python main.py .\input\spotify.json .\input\changes.json .\output\output.json`
 
 ## Validation of output
